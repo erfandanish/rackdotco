@@ -68,7 +68,7 @@ window.PRODUCTS = [
     condition: "9/10",
     description: "FAM light blue polo shirt in good condition.",
     image: ["assets/products/fam-front.jpg", "assets/products/fam-back.jpg"],
-    status: "AVAILABLE",
+    status: "SOLD",
   },
   {
     id: 6,
