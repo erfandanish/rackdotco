@@ -97,6 +97,6 @@ window.PRODUCTS = [
       "assets/products/aj1re-side.jpeg",
       "assets/products/aj1re-sole.jpeg",
     ],
-    status: "AVAILABLE",
+    status: "SOLD",
   },
 ];
