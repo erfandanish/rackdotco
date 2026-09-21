@@ -93,9 +93,9 @@ window.PRODUCTS = [
     condition: "8/10",
     description: "Classic red and elephant textures pair in good condition. Minor signs of wear consistent with preloved use.",
     image: [
-      "assets/products/aj1re-front.jpg",
-      "assets/products/aj1re-side.jpg",
-      "assets/products/aj1re-sole.jpg",
+      "assets/products/aj1re-front.jpeg",
+      "assets/products/aj1re-side.jpeg",
+      "assets/products/aj1re-sole.jpeg",
     ],
     status: "AVAILABLE",
   },
