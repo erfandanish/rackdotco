@@ -26,7 +26,7 @@ window.PRODUCTS = [
     description:
       "Graphic tee with a clean streetwear silhouette. Preloved and inspected before listing.",
     image: ["assets/products/svg-front.jpg", "assets/products/svg-back.jpg"],
-    status: "AVAILABLE",
+    status: "SOLD",
   },
   {
     id: 3,
@@ -81,6 +81,21 @@ window.PRODUCTS = [
     image: [
       "assets/products/mizuno-front.jpg",
       "assets/products/mizuno-back.jpg",
+    ],
+    status: "AVAILABLE",
+  },
+   {
+    id: 7,
+    name: "Nike Air Jordan 1 Retro High Red Elephant Print",
+    category: "Sneakers",
+    price: 200,
+    size: "UK7",
+    condition: "8/10",
+    description: "Classic red and elephant textures pair in good condition. Minor signs of wear consistent with preloved use.",
+    image: [
+      "assets/products/aj1re-front.jpg",
+      "assets/products/aj1re-side.jpg",
+      "assets/products/aj1re-sole.jpg",
     ],
     status: "AVAILABLE",
   },
